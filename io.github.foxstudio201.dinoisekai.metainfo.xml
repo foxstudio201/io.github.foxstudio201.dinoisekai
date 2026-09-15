@@ -3,7 +3,7 @@
   <id>io.github.foxstudio201.dinoisekai</id>
   <name>Dino Isekai</name>
   <summary>Dino Isekai — Minecraft Launcher by FoxStudio</summary>
-  <developer id="io.github.foxstudio-201">
+  <developer id="io.github.foxstudio201">
     <name>FoxStudio</name>
   </developer>
   <metadata_license>MIT</metadata_license>
@@ -23,12 +23,12 @@
     </ul>
   </description>
   <launchable type="desktop-id">io.github.foxstudio201.dinoisekai.desktop</launchable>
-  <url type="homepage">https://github.com/foxstudio-201/dinoisekailauncher</url>
-  <url type="bugtracker">https://github.com/foxstudio-201/dinoisekailauncher/issues</url>
-  <url type="vcs-browser">https://github.com/foxstudio-201/dinoisekailauncher</url>
+  <url type="homepage">https://github.com/foxstudio201/dinoisekai</url>
+  <url type="bugtracker">https://github.com/foxstudio201/dinoisekai/issues</url>
+  <url type="vcs-browser">https://github.com/foxstudio201/dinoisekai</url>
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/foxstudio-201/dinoisekailauncher/main/public/icon.png</image>
+      <image>https://raw.githubusercontent.com/foxstudio201/dinoisekai/main/public/icon.png</image>
     </screenshot>
   </screenshots>
   <releases>

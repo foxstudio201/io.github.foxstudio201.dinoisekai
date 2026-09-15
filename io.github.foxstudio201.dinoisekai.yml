@@ -50,8 +50,8 @@ modules:
     sources:
       - generated-sources.json
       - type: archive
-        url: https://github.com/foxstudio-201/dinoisekailauncher/archive/refs/tags/v4.2.1.tar.gz
-        sha256: 946cfb2a6e3108c5006dd30fa51e79386dcc13a7b35da37fd8dbc84115d9abcf
+        url: https://github.com/foxstudio201/dinoisekai/archive/refs/tags/v4.2.1.tar.gz
+        sha256: 9ed2f2db3352c0fe2548b82b0f1099f7b9ffc28470bd9d9e7c5f39a1107c6db0
         strip-components: 1
         dest: main
       - type: file
